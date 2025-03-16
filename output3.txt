@@ -1,0 +1,13 @@
+Welcome to the Calculator!
+Please enter your arithmetic expression: 
+abs(-7)+(2*sqrt(9)) 
+Result: 13.0
+Would you like to view the calculation history? (y/n): n
+Do you want to continue? (y/n): y
+Welcome to the Calculator!
+Please enter your arithmetic expression:
+3+5*2-4/2
+Result: 12.0
+Would you like to view the calculation history? (y/n): n
+Do you want to continue? (y/n): n
+Thank you for using the Calculator!

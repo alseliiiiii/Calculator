@@ -1,0 +1,18 @@
+Welcome to the Calculator!
+Please enter your arithmetic expression: 
+34+(76-45)*2-abs(-5) 
+Result: 91.0
+Would you like to view the calculation history? (y/n): y
+Calculation History:
+34+(76-45)*2-abs(-5) = 91.0     
+Do you want to continue? (y/n): y
+Welcome to the Calculator!
+Please enter your arithmetic expression:
+45*76-20*(32-23) 
+Result: 3240.0
+Would you like to view the calculation history? (y/n): y
+Calculation History:
+34+(76-45)*2-abs(-5) = 91.0
+45*76-20*(32-23) = 3240.0
+Do you want to continue? (y/n): n
+Thank you for using the Calculator!
